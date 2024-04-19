@@ -385,4 +385,8 @@ footer span{
         column-gap: 3rem;
         align-items: center;
     }
+    .about-img{
+        width: 400px;
+       height: 550px;
+    }
 }
